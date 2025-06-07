@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ilaza\Desktop\programs\Homeworks\Quest5-MatrixCpp\Matrix\ConsoleApplication1\ConsoleApplication1.cpp(56,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\ilaza\Desktop\programs\Homeworks\Quest5-MatrixCpp\Matrix\x64\Debug\ConsoleApplication1.exe
